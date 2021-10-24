@@ -1,0 +1,19 @@
+{
+    "Thing1" : {
+        "name": "My Dogs",
+        "desc": "I love my dogs Cooper and Marty. Not pictured is my family dog Cuda.",
+        "image": "dogs.jpeg"
+    },
+
+    "Thing2" : {
+        "name": "Cooking",
+        "desc": "Ever since I was young I have loved to cook.",
+        "image": "cooking.JPG"
+    },
+
+    "Thing3" : {
+        "name": "Beer",
+        "desc": "I am a huge craft beer fan, I used to work at a brewery and that is where I gained my love for it.",
+        "image": "beer.JPG"
+    },
+}
